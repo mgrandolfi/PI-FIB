@@ -14,7 +14,7 @@ This repository is mainly a structured archive of the subject content studied du
 
 - `Topics 1 & 2.pdf` — course material for the first part of the subject
 - `Topics 3, 4 & 5.pdf` — course material for the second part of the subject
-- `Internet Protocols Written Work - Dark Web, Deep Web and Darknets.pdf` — written assignment
+- `Internet Protocols Written Work - Dark Web, Deep Web and Darknets.pdf` — written assignment (grade = 10)
 - `README.md` — repository overview
 
 ## What you'll find here
